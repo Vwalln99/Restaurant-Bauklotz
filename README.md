@@ -7,3 +7,5 @@ Diese App wurde als Baukasten konzipiert, um mehrere Bestellungen gleichzeitig z
 Personalisierte Gerichte: Wählen Sie aus einer Vielzahl von Zutaten, um Ihre eigene Gerichte nach Ihrem Geschmack zu gestalten.
 Mehrere Bestellungen: Verwalten Sie mehrere Bestellungen gleichzeitig und behalten Sie den Überblick über Ihre Auswahl.
 Einfache Bedienung: Die Benutzeroberfläche wurde so gestaltet, dass sie intuitiv ist und eine reibungslose Bestellabwicklung gewährleistet.
+
+restaurant-bauklotz.vercel.app
